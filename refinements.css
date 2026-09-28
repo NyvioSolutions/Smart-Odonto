@@ -151,6 +151,8 @@ h2 { font-size: clamp(2.25rem, 3.9vw, 3.7rem); }
 .hero-visual figcaption { width: max-content; max-width: calc(100% - 24px); left: auto; right: 0; bottom: 0; padding: 13px 19px; background: #07364ee8; font-weight: 600; }
 .hero-proof { gap: 10px; margin-top: 53px; padding-top: 18px; border-color: #c5dbe0; font-size: .83rem; }
 .stars { color: #bb7b20; }
+.ui-icon { display: inline-block; width: 18px; height: 18px; margin-left: 8px; vertical-align: -.2em; flex-shrink: 0; }
+.rating-stars { display: inline-block; width: 88px; height: 18px; vertical-align: middle; }
 .button { border-radius: 6px; min-height: 54px; padding-inline: 23px; }
 .button-primary { background: var(--navy); box-shadow: 0 10px 24px #07364e20; }
 .button-primary:hover { background: #075c75; }
